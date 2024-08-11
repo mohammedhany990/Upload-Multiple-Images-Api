@@ -1,0 +1,17 @@
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\bin\Debug\net8.0\OgTech.Service.deps.json
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\bin\Debug\net8.0\OgTech.Service.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\bin\Debug\net8.0\OgTech.Service.pdb
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\bin\Debug\net8.0\OgTech.Core.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\bin\Debug\net8.0\OgTech.Repository.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\bin\Debug\net8.0\OgTech.Core.pdb
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\bin\Debug\net8.0\OgTech.Repository.pdb
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.Service.csproj.AssemblyReference.cache
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.Service.AssemblyInfoInputs.cache
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.Service.AssemblyInfo.cs
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.Service.csproj.CoreCompileInputs.cache
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.S.5BB51F3E.Up2Date
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.Service.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\refint\OgTech.Service.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\OgTech.Service.pdb
+E:\CodePractice\C#\OgTech.Api\OgTech.Service\obj\Debug\net8.0\ref\OgTech.Service.dll

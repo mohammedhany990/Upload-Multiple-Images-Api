@@ -1,0 +1,15 @@
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\bin\Debug\net8.0\OgTech.Repository.deps.json
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\bin\Debug\net8.0\OgTech.Repository.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\bin\Debug\net8.0\OgTech.Repository.pdb
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\bin\Debug\net8.0\OgTech.Core.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\bin\Debug\net8.0\OgTech.Core.pdb
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.Repository.csproj.AssemblyReference.cache
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.Repository.AssemblyInfoInputs.cache
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.Repository.AssemblyInfo.cs
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.Repository.csproj.CoreCompileInputs.cache
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.R.0327AF52.Up2Date
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.Repository.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\refint\OgTech.Repository.dll
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\OgTech.Repository.pdb
+E:\CodePractice\C#\OgTech.Api\OgTech.Repository\obj\Debug\net8.0\ref\OgTech.Repository.dll

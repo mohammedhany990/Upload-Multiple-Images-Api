@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0MS/awBkb9afE/jUKISVMqtmuNQofJHD9SAdZWjJAWc=",
+  "Source": "OgTech.Api",
+  "BasePath": "_content/OgTech.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OgTech.Api\\wwwroot",
+      "Source": "OgTech.Api",
+      "ContentRoot": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\",
+      "BasePath": "_content/OgTech.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

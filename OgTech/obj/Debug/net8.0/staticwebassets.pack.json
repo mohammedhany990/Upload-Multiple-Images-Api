@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\LastFile.txt",
+      "PackagePath": "staticwebassets\\UploadedImages\\LastFile.txt"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\anime\\characters\\_1\\anime-characters-dummy.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\anime\\characters\\_1\\anime-characters-dummy.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\anime\\characters\\_1\\anime-characters-ghost.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\anime\\characters\\_1\\anime-characters-ghost.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\anime\\characters\\_2\\anime-characters-gon.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\anime\\characters\\_2\\anime-characters-gon.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\anime\\characters\\_2\\anime-characters-zuro.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\anime\\characters\\_2\\anime-characters-zuro.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\anime\\scene\\_1\\anime-scene-girl.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\anime\\scene\\_1\\anime-scene-girl.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\anime\\scene\\_1\\anime-scene-sword.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\anime\\scene\\_1\\anime-scene-sword.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\brand1\\trees_1\\_1\\brand1-trees_1-tree1.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\brand1\\trees_1\\_1\\brand1-trees_1-tree1.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-dummy.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-dummy.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-ghost.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-ghost.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-gon.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-gon.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-zuro.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-characters-zuro.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-scene-girl.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-scene-girl.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-scene-sword.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\anime-scene-sword.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\brand1-trees_1-tree1.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\brand1-trees_1-tree1.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\paris-view-laptop.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\paris-view-laptop.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\room-disk-pc.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\room-disk-pc.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\room-setup-pc.png",
+      "PackagePath": "staticwebassets\\UploadedImages\\f9caa6f3-35d2-4239-af4c-c5c62ca36edf\\room-setup-pc.png"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\paris\\view\\_1\\paris-view-laptop.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\paris\\view\\_1\\paris-view-laptop.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\room\\disk\\_1\\room-disk-pc.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\room\\disk\\_1\\room-disk-pc.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\OgTech.Api\\OgTech\\wwwroot\\UploadedImages\\room\\setup\\_1\\room-setup-pc.png",
+      "PackagePath": "staticwebassets\\UploadedImages\\room\\setup\\_1\\room-setup-pc.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OgTech.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OgTech.Api.props",
+      "PackagePath": "build\\OgTech.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OgTech.Api.props",
+      "PackagePath": "buildMultiTargeting\\OgTech.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OgTech.Api.props",
+      "PackagePath": "buildTransitive\\OgTech.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
